@@ -2,6 +2,7 @@
   #include <ostream>
   
   using namespace std;
+
   int main() {
   int x;
   cout<<"Please input the number of printed documents：";
