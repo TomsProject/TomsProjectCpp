@@ -1,6 +1,6 @@
 ## Welcome to view this project.
 Here are some small programs using C/C++, and they are very useful.（Most of them are very simple, even small programs!）
-## So what are there in this project?
+## So what's in this project?
 Let me take an example for you.
 ## 
 One day, Xiao Min came to a certain company. The company has a new product that needs to be sold (printed into posters). Now there are A Printing Factory and B Printing Factory. A's fee standard is: 0.2 yuan for each poster, plus 500 yuan for copyright. B's fee standard is: 0.4 yuan for each poster, no copyright fee, please use C/C++ to do it. A program to print 3000 copies of how many yuan!
