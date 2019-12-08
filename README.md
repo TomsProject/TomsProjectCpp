@@ -40,4 +40,4 @@ Yo, is a good question, let me tell you:
 ##
 You can download translater&editor in the branch Dev-Cpp.
 ##
-Website:http://sdrgdfsdfase.w3.luyouxia.net/
+Website:https://www.projectoms.com/
