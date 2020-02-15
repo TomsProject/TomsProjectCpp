@@ -33,7 +33,7 @@ Complete code:
 This project is handed over to A&B and you can find him in the branch.
 ## So what environment do you use to do it?
 Yo, is a good question, let me tell you:
-* system:Windows Version 10 1803  (Enterprise）
+* system:Windows Version 10 1909  (Enterprise）
 * CPU：Intel(R)Core(TM) i5-5200U @ 2.20GHz
 * editor: Dev-C++ 5.11
 * translater:TDM-GCC 4.9.2 64-bit Release
