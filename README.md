@@ -1,4 +1,4 @@
-## Welcome to view this project.
+## Welcome to this project.
 Here are some small programs using C/C++, and they are very useful.（Most of them are very simple, even small programs!）
 ## So what's in this project?
 Let me take an example for you.
